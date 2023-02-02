@@ -18,7 +18,7 @@ node.js, html, heroku
 express, uniqid
 
 ## Mock Up
-![Screen Shot](/assets/screenshot.png)
+![Screen Shot](./assets/screenshot.png)
 
 ## [Deployed App](https://note-taker3274.herokuapp.com/notes)
 ## Credits
